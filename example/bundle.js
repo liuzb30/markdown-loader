@@ -1,0 +1,1 @@
+(()=>{"use strict";document.getElementById("container").innerHTML='<h1 id="title">title</h1> <h2 id="subtitle">subtitle</h2> <blockquote> <p>content222</p> </blockquote> '})();
